@@ -6,6 +6,8 @@ import AthletePhoto from "/images/airbnb/athlete.png";
 import WeddingPhoto from "/images/airbnb/wedding-photo.png";
 import MountainBikePhoto from "/images/airbnb/mountain-bike.png";
 
+import "./styles.css"
+
 function App() {
   const data = [
     {
